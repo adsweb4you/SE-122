@@ -1,0 +1,2 @@
+https://www.w3schools.com/css/css_selectors.asp
+https://www.w3schools.com/css/css_text.asp

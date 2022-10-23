@@ -1,0 +1,48 @@
+@font-face {
+    font-family: BpGfONT;
+    src: url('../fonts/bpg_nino_mtavruli_bold.ttf');
+}
+/* 
+       p {
+         color: red  ;
+       }
+
+       .center {
+         text-align: center;
+         color: green;
+       }
+
+       #first{
+        font-weight: bold;
+       } */
+
+.mytext{
+    font-family: BpGfONT;
+    color: #050327; /* ტექსტის ფერი */
+    font-size: 25px; /* ტექსტის ზომა */
+    text-align: center; /* ტექსტის განლაგება */
+    font-weight: normal;  /* ტექსტის სისქე */
+ /*   text-decoration: line-through underline overline;  ტექსტის ხაზგასმა */
+    text-decoration-color: blueviolet; /* ტექსტის ხაზის ფერი */
+    text-decoration-style: wavy; /* ტექსტის ხაზის სტილი */
+    text-transform: lowercase; /* ტექსტის სიმბოლოების გადიდება/დაპატარავება */
+ /*   text-shadow:4px 4px 4px #050327 ;  ტექსტის შუქჩრდილი */ 
+    letter-spacing: 5px; /* სიმბოლოებს შორის დაშორება   */ 
+    word-spacing: 15px;/* სიტყვებს შორის დაშორება   */ 
+    line-height: 36px; /* ხაზებს შორის დაშორება   */ 
+
+}
+
+
+
+div{
+    background-color: blueviolet;
+    width: 400px;
+}
+
+.longline{
+    /* white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis; */
+    word-break: break-all;
+}
