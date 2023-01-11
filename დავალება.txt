@@ -1,23 +1,5 @@
- შევქმნათ შემდეგი ტიპის ცვლადები  
+გავაგრძელოთ პროექტებზე მუშაობა
 
- 
+გავეცნოთ javascript
 
- 
-
-   -- NUMBER 
-
-   -- ARRAY 
-
-   -- STRING 
-
-   -- BOOLEAN 
-
-   -- OBJECT 
-
-   -- FUNCTION 
-
- 
-
- -- TYPEOF ფუნქციაში დავბეჭდოთ ერთ ერთის ტიპის    (CONSOLE.LOG()) 
-
- -- სტრინგი გამოვიტანოთ HTML ში 
+https://www.w3schools.com/js/default.asp
