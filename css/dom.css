@@ -1,0 +1,13 @@
+ 
+.parent p{
+opacity: 0;
+position: absolute;
+width: 100%;
+height: 350px;
+transition: all .6s linear;
+}
+
+.parent .active{
+    opacity: 1;
+ }
+ 
